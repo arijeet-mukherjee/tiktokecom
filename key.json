@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "truckbook-4c90a",
+  "private_key_id": "58d283098620195be833d836fa1a88be9e388b96",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCuuWB7DQedeGoP\nSIlaLJt1k0zAas+4VF5ups81NJowEKGwY94OLgovZm3LFZghJF281eaY2ifZaup1\ni9cNAxgSMLkICBpdTFzWIaiWsJejCbh2PPZxkSrIcI0l3QHo+MZRlzDNu+xV6a51\nHfA/UcKCmMXZWXz3XLRaD82+k8IO6jgeKjVvadtqO1x1F6TlprORWfk2wJSdfz5X\nTEA7PDXlXr/L1HaVkGC58hXHnp5WC3F/UDEURCY5xFoIWzF7cCdfifU745Zbyqiy\nFqyyRmL5yUESXJmhwtImjXw3YyqDOskDGHnHhJw2Y4jHJMea2glAxiFBamICVda8\n0vA9UgPdAgMBAAECggEAG6tisonpM1BO53WyvrOCuPdnN6+SjpvZyocjGEdoxYTU\nvjTKhQ9YcJI1f+w/B7yVFaMAHiOqHN24HH5VQ4vCY5sQqktyNWUy7HwvERINKXYQ\nHrVfx7NYBZ8BU0YxF75R1bjuMx53+lED3issETL27SyZZGauChRFwV9wUyZeHHNK\nlDkGYtlW04X03AJCiUkYB2Qx7V2c0kGS9K4O1ewecbQiqK9KqYCRFWeriBCeQRdq\n3A2dFs/8tRgzD6HZ0OcsY7/9aKIRk8zEPn4bBL67wQvsEbkDULZSqaPmsYiYC+kz\n7icEco9LnZfZfuiMTaC5vKjDPyg7mgwuyUxQ7NiT4QKBgQDuEVXO6ZjiQHNlQASO\nhuLlWGg9N7aZW4ZSfhf+dQx+waYM1Ngh59tBL/7GBY0QsS+AyiLH3lVgp7Y7ImKx\n48Bs9sMgreQJmorolrejKjY4rFlPrRf9ihEtat9aVcKPTNDETyzKe1zKvnj2/YAt\nC2dLfrHYLuch7selzICRnXYdDQKBgQC74pYBErFYv7JGQ5AoOj46t8X0vWBI1jH4\nKb1Qtcv0nM6IPz89+m039ZNvVmu5x3+zmPWvpbgGNO322CKRdQF6R1HYmNCkOmoD\n4jw7kihmZSygJBXHmTayb6tP6RHMX13TI6kevP+LyeVWiFzB+Q588zb004cRNA8H\nGuS1sVjuEQKBgQDKu9R5ChD5y6z5clTvEwsyB+FtEH7dhkWTBnJkbUUgxMQldTRB\nW3MpxjeOZrfEmT88y+Zmkn3ee7QCE7w8hRkfMdzlfXAOhZ75hzAHMTFPfeXoph0h\n+mu6Y6KlCRdQdTfrlQktvXQ964qTuzlmIqnqbpAA66BFE1TNaqOqXY9yGQKBgQCK\n+IdRldz9sxUPKcxIJQSAdAwFAcplNaHSWDVCrKWGcjHFz1pc4o3ElW2PLdISoUCQ\nvDQFzsL2PFJDggzXoD8OjhA48Jdq0hY2dzFsMqiVTIKclPRTJb2ycCy7t75Fd8iz\ncq4WIV+3qwdqYQSTKUARJejhYFCIZgQzki3XQq1vsQKBgQDpF4kHr4b8Y+XFHANg\n3M/WiYVP5ADfMgSnkUvsJWDvXpHAjZzYsfGlPncsHHO/m98uGyuuhzZXzIyoijPB\n2VNCD1L+vj/qk2orGsTT2zfAPG71El+r2ErKzrEzdtSgrs5CD1R7/9S1jxd/jHH5\nYZLuP4805w+gPxT8dTEJJjWc1g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-3dje4@truckbook-4c90a.iam.gserviceaccount.com",
+  "client_id": "112668030546288487660",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3dje4%40truckbook-4c90a.iam.gserviceaccount.com"
+}
